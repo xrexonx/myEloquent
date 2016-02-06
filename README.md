@@ -104,12 +104,10 @@ $user = User::find(1);
 $user->delete();
 
 ```
-
 More documentations on
-```sh
-https://github.com/illuminate/database
-https://laravel.com/docs/5.1/eloquent
-```
+* [Laravel Eloquent](https://laravel.com/docs/5.1/eloquent)
+* [illuminate/database](https://github.com/illuminate/database)
+
 ## License
 MIT © [Rexon A. De los Reyes](http://xrexonx.github.io)
 
