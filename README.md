@@ -105,6 +105,11 @@ $user->delete();
 
 ```
 
+More documentations on
+```sh
+https://github.com/illuminate/database
+https://laravel.com/docs/5.1/eloquent
+```
 ## License
 MIT © [Rexon A. De los Reyes](http://xrexonx.github.io)
 
