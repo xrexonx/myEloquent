@@ -11,6 +11,11 @@ $views = __DIR__ . '/views';
 $cache = __DIR__ . '/cache';
 
 $blade = new Blade($views, $cache);
+
+$data = [
+	'name' => 'sadasdsfsdf',
+];
+
 echo $blade
 		->view()
 		->make('hello')
