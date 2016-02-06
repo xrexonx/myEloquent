@@ -1,5 +1,5 @@
 {
-    "name": "xrexonx/my-eloquent",
+    "name": "rexon/my-eloquent",
     "description": "A configured and ready to use vanilla PHP project using Laravel's Database Eloquent.",
     "keywords": ["PHP", "Vanilla PHP", "database", "Eloquent", "Laravel", "Laravel Eloquent", "Blade"],
     "license": "MIT",
