@@ -1,4 +1,14 @@
 {
+    "name": "xrexonx/my-eloquent",
+    "description": "A configured and ready to use vanilla PHP project using Laravel's Database Eloquent.",
+    "keywords": ["PHP", "Vanilla PHP", "database", "Eloquent", "Laravel", "Laravel Eloquent", "Blade"],
+    "license": "MIT",
+    "type": "project",
+    "authors": [{
+      "name": "Rexon A. De los Reyes",
+      "email": "rexondelosreyes88@gmail.com",
+      "role": "developer"
+    }],
     "require": {
         "illuminate/database": "^5.2",
         "philo/laravel-blade": "3.*"
