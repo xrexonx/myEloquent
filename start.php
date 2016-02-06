@@ -13,6 +13,7 @@ use Illuminate\Database\Capsule\Manager as Capsule;
 //Insert
 // User::create(['email' => 'johndoe@gmail.com']);
 
+// Get Where
 // dd(User::where('id', 1)->get()->toArray());
 
 //Updates
