@@ -2,8 +2,7 @@
 
 require 'bootstrap.php';
 
-// require 'start.php';
-
+// Using the Laravel's Blade Templating...
 use Philo\Blade\Blade;
 
 $views = __DIR__ . '/views';
