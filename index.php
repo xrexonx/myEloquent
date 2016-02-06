@@ -1,7 +1,6 @@
 <?php
 
-require 'vendor/autoload.php';
-require 'config/database.php';
+require 'bootstrap.php';
 
 // require 'start.php';
 
@@ -11,10 +10,6 @@ $views = __DIR__ . '/views';
 $cache = __DIR__ . '/cache';
 
 $blade = new Blade($views, $cache);
-
-$data = [
-	'name' => 'sadasdsfsdf',
-];
 
 echo $blade
 		->view()
