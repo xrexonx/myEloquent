@@ -9,7 +9,8 @@ Clone this repo
 ```sh
 $ git clone https://github.com/xrexonx/myEloquent.git
 ```
-or you can manually download the zip file [here] on github. [here]: <https://github.com/xrexonx/myEloquent>
+or you can manually download the zip file [here] on github. 
+[here]: <https://github.com/xrexonx/myEloquent>
 
 ## Config
 Configure your database connections on yourProject/config/database.php file.
